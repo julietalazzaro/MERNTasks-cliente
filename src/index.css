@@ -73,8 +73,19 @@ a {
 .btn-primario:hover {
   background: var(--gris3);
 }
+
 .btn-secundario {
   background-color: var(--gris1);
+}
+.btn-secundario:hover {
+  background: var(--blanco);
+}
+
+.btn-eliminar {
+  background-color: var(--blanco);
+}
+.btn-eliminar:hover {
+  background: var(--gris1);
 }
 .btn-block {
   display: block;
