@@ -7,7 +7,7 @@ const Barra = () => {
         Hola <span>Julieta</span>
       </p>
       <nav className="nav-principal">
-        <a href="#!">Cerrar Seeion</a>
+        <a href="#!">Cerrar Sesión</a>
       </nav>
     </header>
   );
