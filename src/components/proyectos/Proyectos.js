@@ -12,8 +12,9 @@ const Proyectos = () => {
         <Barra />
         <main>
           <FormTarea />
-          <div className="contenedor-tareas"></div>
-          <ListadoTareas />
+          <div className="contenedor-tareas">
+            <ListadoTareas />
+          </div>
         </main>
       </div>
     </div>
